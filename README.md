@@ -12,7 +12,6 @@
   - Discord : Ericar#8913
   - Email   : dorardarmand@gmail.com 📧
  
-![Call me ;)](https://tenor.com/view/call-me-sugar-phone-call-phone-bambergen-tied-up-gif-11950300)
 
 <!--
 **Ericar974/Ericar974** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
