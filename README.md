@@ -1,16 +1,16 @@
 ### 🌴 Welcome to the lair of the atypical developer 🌴
 
  -    **Name**    : *Armand DORARD* , alias *Ericar*
- -    **From**    : *Reunion island :reunion: & I live in Paris :fr:*
+ -    **From**    : *Reunion island* :reunion: *& I live in Paris* :fr:
  -    **Study**   : *Web development school*
- - **Working on** : *Final year project*
+ - **Working on** : *Final year project* 
 
-### Contact :bowtie:
+### :bowtie: Contact 
   
   - [LinkedIn](https://www.linkedin.com/in/armand-dorard-a86a9817a/) 
-  - [CV](https://drive.google.com/file/d/136RO3EvBW894hbg0blN3lHmV7c0DqcD1/view)
+  - [CV](https://drive.google.com/file/d/136RO3EvBW894hbg0blN3lHmV7c0DqcD1/view) 📜
   - Discord : Ericar#8913
-  - Email   : dorardarmand@gmail.com
+  - Email   : dorardarmand@gmail.com 📧
  
 
 
