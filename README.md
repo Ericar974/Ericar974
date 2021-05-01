@@ -1,7 +1,7 @@
 ### 🌴 Welcome to the lair of the atypical developer 🌴
 
  -    **Name**    : *Armand DORARD* , alias *Ericar*
- -    **From**    : *Reunion island* Flag: Réunion on Google : *& I live in Paris* :fr: 
+ -    **From**    : *Reunion island* 🏝 *& I live in Paris* 🗼
  -    **Study**   : *Web development school*
  - **Working on** : *Final year project* 
 
