@@ -3,7 +3,7 @@
  -    **Name**    : *Armand DORARD* , alias *Ericar*
  -    **From**    : *Reunion island* 🏝 *& I live in Paris* 🗼
  -    **Study**   : *Web development school*
- - **Working on** : *stage* 
+ - **Working on** : *stage  / [on Gitlab](https://gitlab.com/Ericar974)*
 
 ### :bowtie: Contact 
   
