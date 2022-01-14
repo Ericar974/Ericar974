@@ -2,8 +2,8 @@
 
  -    **Name**    : *Armand DORARD* , alias *Ericar*
  -    **From**    : *Reunion island* 🏝 *& I live in Paris* 🗼
- -    **Study**   : *Web development school*
- - **Working on** : *school, searching for an alternance*
+ -    **Study**   : *web developer at Commoprices ( alternance ) & school: IIM*
+ - **Working on** : *Laravel, node & some special project*
 
 ### :bowtie: Contact 
   
