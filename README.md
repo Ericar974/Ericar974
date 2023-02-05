@@ -2,13 +2,13 @@
 
  -    **Name**    : *Armand DORARD* , alias *Ericar*
  -    **From**    : *Reunion island* 🏝 *& I live in Paris* 🗼
- -    **Study**   : *web developer at Commoprices ( alternance ) & school: IIM*
- - **Working on** : *Laravel, node & some special project*
+ -    **Study**   : *web developer at Mintec & professional web scraper JS ( PY soon )
+ - **Working on** : *Laravel, nodeJS, React, Python*
 
 ### :bowtie: Contact 
   
   - [LinkedIn](https://www.linkedin.com/in/armand-dorard-a86a9817a/) 
-  - [CV](https://drive.google.com/file/d/136RO3EvBW894hbg0blN3lHmV7c0DqcD1/view) 📜
+  - [CV]() 📜
   - Discord : Ericar#8913
   - Email   : dorardarmand@gmail.com 📧
   - [Gitlab](https://gitlab.com/Ericar974)
