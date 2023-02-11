@@ -4,8 +4,6 @@
 </div>
  
 <div align="center">
-
-### 📜 Informations 📜
  
 - *Armand DORARD* , alias *Ericar*
 - *Reunion island*
