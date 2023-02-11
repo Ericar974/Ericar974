@@ -1,21 +1,19 @@
+<h1> LET ME WORK ! <h1>
 <img src="https://www.creads.com/wp-content/uploads/2021/05/panda.gif" target="_blank">
 
-### 🌴 Welcome to the lair of the atypical developer 🌴
-
+### 📜 Informations
+ 
  -    **Name**    : *Armand DORARD* , alias *Ericar*
- -    **From**    : *Reunion island* 🏝 *& I live in Paris* 🗼
- -    **Study**   : *web developer at Mintec & professional web scraper JS ( PY soon )
- - **Working on** : *Laravel, nodeJS, React, Python*
+ -    **From**    : *Reunion island* 🌴
+ -    **Living**  : *Paris* 🗼
+ -    **Work      : *Mintec Web developer*
+ -    **International**
 
-### :bowtie: Contact 
-  
-  - [LinkedIn](https://www.linkedin.com/in/armand-dorard-a86a9817a/) 
-  - [CV]() 📜
+### 📫 Contact 
   - Discord : Ericar#8913
   - Email   : dorardarmand@gmail.com 📧
-  - [Gitlab](https://gitlab.com/Ericar974)
+  - GitLab  : [link](https://gitlab.com/Ericar974)
  
-
 <!--
 **Ericar974/Ericar974** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
