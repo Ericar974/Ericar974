@@ -13,15 +13,18 @@
  -    **Work**      : *Mintec Web developer*
  -    **International** ![France](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/fr.png "France") ![United Kingdom](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/gb.png "United Kingdom")
  
+ </div>
 
+ <div align="center">
   <img width="100%" src="https://github-readme-stats-sortedcord.vercel.app/api/top-langs/?username=Ericar974&layout=compact&theme=dracula&hide=html&langs_count=8&hide_border=true"
- 
+ </div>
 
 ### 📫 Contact 
   - Discord : Ericar#8913
   - Email   : dorardarmand@gmail.com 📧
   - GitLab  : [link](https://gitlab.com/Ericar974)
 
+  <div align="center">
   <img width="100%" src="http://github-readme-stats-sortedcord.vercel.app/api?username=Ericar974&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"
  </div>
     
