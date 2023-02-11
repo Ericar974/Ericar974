@@ -9,7 +9,7 @@
  -    **From**    : *Reunion island* 🌴
  -    **Living**  : *Paris* 🗼
  -    **Work**      : *Mintec Web developer*
- -    **International**
+ -    **International** ![France](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/fr.png "France") ![United Kingdom](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/gb.png "United Kingdom")
 
 ### 📫 Contact 
   - Discord : Ericar#8913
