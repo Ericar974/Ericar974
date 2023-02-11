@@ -8,7 +8,7 @@
  -    **Name**    : *Armand DORARD* , alias *Ericar*
  -    **From**    : *Reunion island* 🌴
  -    **Living**  : *Paris* 🗼
- -    **Work      : *Mintec Web developer*
+ -    **Work**      : *Mintec Web developer*
  -    **International**
 
 ### 📫 Contact 
