@@ -8,10 +8,12 @@
 ### 📜 Informations 📜
  
 - *Armand DORARD* , alias *Ericar*
-- *Reunion island* 🌴
-- *Paris* 🗼
+- *Reunion island*
+- 🌴
+- *Paris* 
+- 🗼
 - *FullStack Developer at Mintec*
-- [France](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/fr.png "France") ![United Kingdom](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/gb.png "United Kingdom")
+- ![France](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/fr.png "France") ![United Kingdom](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/gb.png "United Kingdom")
  
  </div>
 
