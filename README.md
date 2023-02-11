@@ -5,13 +5,10 @@
  
 <div align="center">
  
-## *Armand DORARD* , alias *Ericar*
-## *Reunion island*
-## 🌴
-## *Paris* 
-##🗼
-## *FullStack Developer at Mintec*
-## ![France](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/fr.png "France") ![United Kingdom](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/gb.png "United Kingdom")
+### *FullStack Developer at Mintec*
+### 🌴 *Reunion island* & *Paris* 🗼
+
+![France](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/fr.png "France") ![United Kingdom](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/gb.png "United Kingdom")
  
  </div>
 
@@ -21,7 +18,7 @@
 
 ### 📫 Contact 
 ## Discord Ericar#8913
-## dorardarmand@gmail.com 📧
+## dorardarmand@gmail.com
 
   <div align="center">
   <img width="100%" src="http://github-readme-stats-sortedcord.vercel.app/api?username=Ericar974&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"
