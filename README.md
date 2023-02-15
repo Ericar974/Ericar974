@@ -13,16 +13,12 @@
  </div>
 
  <div align="center">
-  <img width="100%" src="https://github-readme-stats-sortedcord.vercel.app/api/top-langs/?username=Ericar974&layout=compact&theme=dracula&hide=html&langs_count=8&hide_border=true"
+  <img width="100%" src="https://github-readme-stats-sortedcord.vercel.app/api/top-langs/?username=Ericar974&layout=compact&theme=merko&hide=html&langs_count=8&hide_border=true"
  </div>
 
 ### 📫 Contact 
 ## Discord Ericar#8913
 ## dorardarmand@gmail.com
-
-  <div align="center">
-  <img width="100%" src="http://github-readme-stats-sortedcord.vercel.app/api?username=Ericar974&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"
- </div>
     
 <!--
 **Ericar974/Ericar974** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
