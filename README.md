@@ -13,7 +13,7 @@
  </div>
 
  <div align="center">
-  <img width="100%" src="https://github-readme-stats-sortedcord.vercel.app/api/top-langs/?username=Ericar974&layout=compact&theme=merko&hide=html&langs_count=8&hide_border=true"
+  <img width="100%" src="https://github-readme-stats-sortedcord.vercel.app/api/top-langs/?username=Ericar974&layout=compact&theme=tokyonight&hide=html&langs_count=8&hide_border=true"
  </div>
 
 ### 📫 Contact 
