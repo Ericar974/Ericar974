@@ -1,12 +1,12 @@
 <h1  align="center"> Hello World <h1>
 <div  align="center">
- <img src="https://www.creads.com/wp-content/uploads/2021/05/panda.gif" target="_blank">
+ <img src="[https://www.creads.com/wp-content/uploads/2021/05/panda.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDAzbHNrbzVhYWFxMHRxaDYyM2p5MXh4Z3F4YzNqYjdreWxkam84dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VIJDpY5RARd6w/giphy.gif)" target="_blank">
 </div>
  
 <div align="center">
  
 ### *FullStack Developer at Mintec*
-### 🌴 *Reunion island* & *Paris* 🗼
+### *Reunion island*🌴 & *Paris*🗼
 
 ![France](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/fr.png "France") ![United Kingdom](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/gb.png "United Kingdom")
  
@@ -17,7 +17,7 @@
  </div>
 
 ### 📫 Contact 
-## Discord Ericar#8913
+## Discord Ericar#974
 ## dorardarmand@gmail.com
     
 <!--
