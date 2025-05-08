@@ -5,7 +5,7 @@
  
 <div align="center">
  
-### *FullStack Developer at Mintec*
+### *FullStack Developer*
 ### *Reunion island*🌴 & *Paris*🗼
 
 ![France](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/fr.png "France") ![United Kingdom](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/gb.png "United Kingdom")
